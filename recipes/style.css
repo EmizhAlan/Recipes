@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 800;
+    font-weight: bold;
+    background-color: green;
+}
+
+ol {
+    text-align: center;
+    align-content: center;
+    align-self: center;
+    align-items: center;
+    content: center;
+    color: black;
+    background-color: greenyellow;
+}
+
+body {
+    background-color: pink;
+}
+
+img {
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
